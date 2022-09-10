@@ -84,14 +84,10 @@
     width: 100%;
     height: auto;
   }
-  .item-link {
-    padding: 5px;
-  }
+
   .item-text {
-    position: relative;
     text-align: center;
-    top: 5px;
-    margin: 10px;
+    padding: 10px 5px;
   }
   .item-link:hover {
     color: #fd7e14;
