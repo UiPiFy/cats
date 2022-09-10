@@ -87,7 +87,7 @@
 
   .item-text {
     text-align: center;
-    padding: 10px 5px;
+    margin: 15px 5px;
   }
   .item-link:hover {
     color: #fd7e14;
